@@ -10,8 +10,6 @@ import SearchBox from "./components/SearchBox";
 const App = () => {
 
   const [movies, setMovies] = useState([]);
-  const [favourites, setFavourites] = useState([])
-  const [searchValue, setSearchValue] = useState([])
   
   useEffect(() => {
     fetch('http://localhost:5000/movie')
