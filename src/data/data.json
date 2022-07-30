@@ -559,7 +559,70 @@
         "imdbID": "tt1756545",
         "Type": "movie",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNDM0YzMyNGUtMTU1Yy00OTE2LWE5NzYtZDZhMTBmN2RkNjg3XkEyXkFqcGdeQXVyMzU5NjU1MDA@._V1_SX300.jpg"
+    },{
+        "Title": "Now You See Me",
+        "Year": "2013",
+        "imdbID": "tt1670345",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me 2",
+        "Year": "2016",
+        "imdbID": "tt3110958",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhlNDljNTgtZjc4My00NmZmLTk2YzAtYWE5MDYwYjM4MTkzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me",
+        "Year": "2012",
+        "imdbID": "tt2221640",
+        "Type": "movie",
+        "Poster": "N/A"
+    },
+    {
+        "Title": "Now You See Me 2: You Can't Look Away",
+        "Year": "2016",
+        "imdbID": "tt6043860",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGM0NjMzZWQtNTMwMS00MzZhLWJkYTktOThmNzU0MWYxMjU0XkEyXkFqcGdeQXVyOTIzODYyNjc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me, Now You Don't",
+        "Year": "2005",
+        "imdbID": "tt0457682",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3OTA0NTgwNl5BMl5BanBnXkFtZTcwODA3MDUzMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me",
+        "Year": "2013",
+        "imdbID": "tt3179140",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTRmNDI2YmYtNGJjNS00NjUyLWEwYzgtMDhhMmVkYjNmYjIzXkEyXkFqcGdeQXVyNDc4NTM5NDQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me Live!",
+        "Year": "2019",
+        "imdbID": "tt9799386",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWJiZDk1ZGMtYjdhNy00YWU2LThmZjMtNzcyOGIzNGQ1NTBiXkEyXkFqcGdeQXVyNDAzMTMyODg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me... - Part 1",
+        "Year": "2019",
+        "imdbID": "tt10397348",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY1OTBjNmItMjg5My00MTZmLTgwODktYzU4ZTQwOWY3YWVlXkEyXkFqcGdeQXVyMjY3NzQ0NzY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Now You See Me... - Part 2",
+        "Year": "2019",
+        "imdbID": "tt10612572",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmRmYWQxMDctMzBlZS00MDE0LWE1YjEtYjRmNTIzOWNiMDIyXkEyXkFqcGdeQXVyMjY3NzQ0NzY@._V1_SX300.jpg"
     }
+
     
 ]
 }
