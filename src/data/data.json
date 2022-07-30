@@ -141,6 +141,76 @@
             "Poster": "https://m.media-amazon.com/images/M/MV5BN2FhOTQ2MmQtNTY0OC00NWYyLThjNjMtZmZiOTBmYTY4MmM2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
         },
         {
+            "Title": "American Pie",
+            "Year": "1999",
+            "imdbID": "tt0163651",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie 2",
+            "Year": "2001",
+            "imdbID": "tt0252866",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTEyYjhiMjYtNjU3YS00NmQ4LTlhNTEtYTczNWY3MGJmNzE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie Presents: Band Camp",
+            "Year": "2005",
+            "imdbID": "tt0436058",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzRkYjY4NmQtNmMxZS00MjkyLTk2YTMtYTgwZGRlYjAzNjZmXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie Presents: The Naked Mile",
+            "Year": "2006",
+            "imdbID": "tt0808146",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTNlMTk4YjEtMWY1ZC00ODkzLWEzM2UtZmFiYjUwYTRhOWZkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie Presents: Beta House",
+            "Year": "2007",
+            "imdbID": "tt0974959",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmM4NWY0M2YtZDdhYy00ZmRlLTliMGYtYThmNjQ3NWEyOGU0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie Presents: The Book of Love",
+            "Year": "2009",
+            "imdbID": "tt1407050",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTZiOTQ2MGUtMDk3Mi00NmUzLWJmMGYtZmE1MzFiNDU4NjM2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie Presents: Girls' Rules",
+            "Year": "2020",
+            "imdbID": "tt11771594",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTdlMzdmNDAtYTIyNi00ZWZiLWE3ZDYtOTg2YzE3NDRkNTYwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Madonna: American Pie",
+            "Year": "2000",
+            "imdbID": "tt6673768",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ2ZTU1ZWMtMTA4Zi00NDY5LTgyYjYtOTQ5NTgyMDVjOWUyXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX300.jpg"
+        },
+        {
+            "Title": "American Pie Revealed",
+            "Year": "2004",
+            "imdbID": "tt0471562",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMWMzYzZmOWUtMzY2OC00MWRlLTkzNDUtODA5OTNmY2YxNGE3XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Spotlight on Location: American Pie",
+            "Year": "1999",
+            "imdbID": "tt0303076",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
             "Title": "Rambo",
             "Year": "2008",
             "imdbID": "tt0462499",

@@ -21,6 +21,9 @@ const App = () => {
 },[searchValue])
 
 
+const saveToLocalStorage = (items) => {
+		localStorage.setItem('react-movie-app-favourites', JSON.stringify(items));
+	};
 
 	const addFavouriteMovie = (movie) => {
 		const newFavouriteList = [...favourites, movie];
