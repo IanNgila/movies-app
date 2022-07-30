@@ -6,6 +6,7 @@ import MovieListHeading from "./components/MovieListHeading";
 import SearchBox from "./components/SearchBox";
 import AddFavourites from "./components/AddFavourites";
 import RemoveFavourites from "./components/RemoveFavourites";
+import { Routes } from "react-router-dom";
 
 
 const App = () => {
@@ -46,6 +47,11 @@ const saveToLocalStorage = (items) => {
  
 return (
   <div className='container-fluid movie-app'>
+
+	<Routes>
+     <Route exact path="/" element={<App MovieList={MovieList} />} />
+	 <Route exact path="/MovieListHeading" element={<MovieListHeading />} />
+	</Routes>
 			<div className='row d-flex align-items-center mt-4 mb-4'>
 				<MovieListHeading heading='Movies' />
 				<SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
