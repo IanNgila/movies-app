@@ -6,13 +6,15 @@ body {
 
 .movie-app  .row {
  overflow-x:auto;
- display: inline-flex;
+ display: flex;
  flex-wrap: wrap ;
- 
-}
+ }
+
+
 .image-container{
   position: relative;
   transition: transform 0.2s;
+  
 }
 .image-container:hover{
   cursor: pointer ;
