@@ -6,7 +6,7 @@ import MovieListHeading from "./components/MovieListHeading";
 import SearchBox from "./components/SearchBox";
 import AddFavourites from "./components/AddFavourites";
 import RemoveFavourites from "./components/RemoveFavourites";
-import { Routes } from "react-router-dom";
+// import { Routes } from "react-router-dom";
 
 
 const App = () => {
@@ -16,7 +16,7 @@ const App = () => {
   const [searchValue, setSearchValue] = useState([])
   
   useEffect(() => {
-    fetch('http://localhost:5000/movie')
+    fetch(`http://localhost:5000/movie/?s=${searchValue}`)
     .then((res) => res.json())
     .then((data) => setMovies(data))
 },[searchValue])
@@ -46,17 +46,15 @@ const saveToLocalStorage = (items) => {
  
  
 return (
-  <div className='container-fluid movie-app'>
-
-	<Routes>
-     <Route exact path="/" element={<App MovieList={MovieList} />} />
-	 <Route exact path="/MovieListHeading" element={<MovieListHeading />} />
-	</Routes>
-			<div className='row d-flex align-items-center mt-4 mb-4'>
-				<MovieListHeading heading='Movies' />
+  
+	<div className='container-fluid movie-app'>
+			<div className='row d-flex align-items-center mt-4 mb-4 '>
+				
+				<MovieListHeading heading='Movies Watchlist' />
 				<SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
 			</div>
 			<div className='row'>
+			<div className="col-md-3"></div>
 				<MovieList
 					movies={movies}
 					handleFavouritesClick={addFavouriteMovie}
@@ -67,6 +65,7 @@ return (
 				<MovieListHeading heading='Favourites' />
 			</div>
 			<div className='row'>
+			<div className="col-md-3"></div>
 				<MovieList
 					movies={favourites}
 					handleFavouritesClick={removeFavouriteMovie}

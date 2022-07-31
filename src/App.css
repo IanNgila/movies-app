@@ -4,7 +4,7 @@ body {
   position:absolute; 
 }
 
-.movie-app > .row {
+.movie-app  .row {
  overflow-x:auto;
  display: inline-flex;
  flex-wrap: wrap ;

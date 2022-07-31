@@ -607,21 +607,8 @@
         "imdbID": "tt9799386",
         "Type": "movie",
         "Poster": "https://m.media-amazon.com/images/M/MV5BOWJiZDk1ZGMtYjdhNy00YWU2LThmZjMtNzcyOGIzNGQ1NTBiXkEyXkFqcGdeQXVyNDAzMTMyODg@._V1_SX300.jpg"
-    },
-    {
-        "Title": "Now You See Me... - Part 1",
-        "Year": "2019",
-        "imdbID": "tt10397348",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY1OTBjNmItMjg5My00MTZmLTgwODktYzU4ZTQwOWY3YWVlXkEyXkFqcGdeQXVyMjY3NzQ0NzY@._V1_SX300.jpg"
-    },
-    {
-        "Title": "Now You See Me... - Part 2",
-        "Year": "2019",
-        "imdbID": "tt10612572",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMmRmYWQxMDctMzBlZS00MDE0LWE1YjEtYjRmNTIzOWNiMDIyXkEyXkFqcGdeQXVyMjY3NzQ0NzY@._V1_SX300.jpg"
     }
+  
 
     
 ]
