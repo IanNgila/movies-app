@@ -16,7 +16,7 @@ const App = () => {
   const [searchValue, setSearchValue] = useState([])
   
   useEffect(() => {
-    fetch(`http://localhost:5000/movie/?s=${searchValue}`)
+    fetch('https://pollen-storm-ulna.glitch.me')
     .then((res) => res.json())
     .then((data) => setMovies(data))
 },[searchValue])
@@ -24,7 +24,7 @@ const App = () => {
 
 const saveToLocalStorage = (items) => {
 		localStorage.setItem('react-movie-app-favourites', JSON.stringify(items));
-	};
+	};								
 
 	const addFavouriteMovie = (movie) => {
 		const newFavouriteList = [...favourites, movie];
